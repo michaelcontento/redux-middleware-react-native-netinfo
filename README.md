@@ -5,6 +5,7 @@
 [![npm version](https://img.shields.io/npm/v/redux-middleware-react-native-netinfo.svg?style=flat-square)](https://www.npmjs.com/package/redux-middleware-react-native-netinfo)
 [![npm downloads](https://img.shields.io/npm/dm/redux-middleware-react-native-netinfo.svg?style=flat-square)](https://www.npmjs.com/package/redux-middleware-react-native-netinfo)
 [![Code Climate](https://codeclimate.com/github/michaelcontento/redux-middleware-react-native-netinfo/badges/gpa.svg)](https://codeclimate.com/github/michaelcontento/redux-middleware-react-native-netinfo)
+[![build](https://travis-ci.org/michaelcontento/redux-middleware-react-native-netinfo.svg)](https://travis-ci.org/michaelcontento/redux-middleware-react-native-netinfo)
 
 Glue [NetInfo][] from [react-native][] to [Redux][].
 
