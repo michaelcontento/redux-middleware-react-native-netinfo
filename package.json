@@ -1,6 +1,6 @@
 {
   "name": "redux-middleware-react-native-netinfo",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Glue NetInfo from react-native to Redux.",
   "main": "lib/index.js",
   "scripts": {
