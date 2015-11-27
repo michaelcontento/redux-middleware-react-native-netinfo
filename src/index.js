@@ -9,4 +9,3 @@ export const middleware = createOneShotMiddleware((dispatch) => {
     NetInfo.isConnected.fetch().done(handle);
     NetInfo.isConnected.addEventListener('change', handle);
 });
-
